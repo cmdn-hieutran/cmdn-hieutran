@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning PHP Language
 - 💞️ I’m looking to collaborate on Classmethod Da Nang
 - 📫 How to reach:
-    - facebook: https://www.facebook.com/tranhuuhieu.15
+    - Facebook: https://www.facebook.com/tranhuuhieu.15
     - Zalo: 0768757110
-    - instagram: hiu_trn
+    - Instagram: hiu_trn
 
 <!---
 cmdn-hieutran/cmdn-hieutran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
